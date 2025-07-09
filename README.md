@@ -23,7 +23,7 @@ Due to one or more of the following reasons, the full implementation is kept pri
 
 If you are interested in learning more about this project (e.g., for collaboration or academic review), feel free to reach out to me:
 
-- 📧 Email: [your_email@example.com]
-- 📄 LinkedIn/GitHub: [Add your profile link]
+- 📧 Email: [sametcanunceee@gmail.com]
+- 📄 LinkedIn/GitHub: [(https://www.linkedin.com/in/samet-can-un%C3%A7-593a7a20b/)]
 
 Access may be granted **upon request**, depending on the nature of the inquiry.
